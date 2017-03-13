@@ -9,6 +9,8 @@
 * [Use live on Heroku] (#Heroku)
 
 ## Challenege
+A web-based PC Room Booking system coded in ASP/VBScript where uses can book an available room. Standard uses can only cancel their own bookings not other user’s bookings. Users can search for available rooms either by room or by date.
+
 ## <a name="Install">Installation</a>
 * To clone the repo
 ```shell
