@@ -26,11 +26,9 @@ MM_PCRoomConnection_STRING = "dsn=<ODBC Connection>;uid=<USERNAME>;pwd=<PASSWORD
 ```
 
 ## <a name="Shots">Screen Shots</a>
-### 1
+### Default Screen
 [![Screenshot](https://raw.githubusercontent.com/adrianeyre/room-booking/master/images/screenshot1.png)](https://raw.githubusercontent.com/adrianeyre/room-booking/master/images/screenshot1.png "Screen Shot 1")
 
-### 2
+### Room Booking Screen
 [![Screenshot](https://raw.githubusercontent.com/adrianeyre/room-booking/master/images/screenshot2.png)](https://raw.githubusercontent.com/adrianeyre/room-booking/master/images/screenshot2.png "Screen Shot 2")
 
-### 3
-[![Screenshot](https://raw.githubusercontent.com/adrianeyre/room-booking/master/images/screenshot3.png)](https://raw.githubusercontent.com/adrianeyre/room-booking/master/images/screenshot3.png "Screen Shot 3")
