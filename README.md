@@ -1,11 +1,11 @@
 # Room Booking
 #### Technologies: ASP, VBScript, HTML, CSS, MS SQL Server
-### [All Saints' Catholic Academy] (http://www.allsaints.notts.sch.uk) - Built on 05/12/2012
+### [All Saints' Catholic Academy](http://www.allsaints.notts.sch.uk) - Built on 05/12/2012
 
 ## Index
-* [Installation] (#Install)
-* [Usage] (#Usage)
-* [Screen Shots] (#Shots)
+* [Installation](#Install)
+* [Usage](#Usage)
+* [Screen Shots](#Shots)
 
 ## Challenege
 A web-based PC Room Booking system coded in ASP/VBScript where uses can book an available room. Standard uses can only cancel their own bookings not other user’s bookings. Users can search for available rooms either by room or by date.
