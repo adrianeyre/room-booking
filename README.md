@@ -21,7 +21,7 @@ $ cd room-booking
 
 * Add an ODBC connection to your SQL Server
 
-* Update the file `Connections/PCRoomConnection.asp' with your connection, username and password
+* Update the file `Connections/PCRoomConnection.asp` with your connection, username and password
 ```shell
 MM_PCRoomConnection_STRING = "dsn=<ODBC Connection>;uid=<USERNAME>;pwd=<PASSWORD>;"
 ```
